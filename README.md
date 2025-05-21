@@ -6,3 +6,6 @@ Check Your Understanding questions
  - Because all other options just doesn't look right and we just learned about Github action that meets the requirement in the question.
  - Although I think it would be great to be able to manually run test locally and not have to only test them when trying to push, I think this is just not the requirement of "automated" tests the question is asking
  - Run the tests all after all development is just going to be a mess if there exists bugs in the code.
+
+2. Would you use an end to end test to check if a function is returning the correct output? (yes/no)
+ - No 
